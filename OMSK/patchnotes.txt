@@ -1,0 +1,46 @@
+It's a mod OMSK Space Products by SnowWhite
+
+https://forum.kerbalspaceprogram.com/index.php?/profile/121477-snowwhite/
+
+and it's licensed 
+
+Attribution-NonCommercial-ShareAlike 4.0 International
+
+adoption notes:
+
+
+based on OMSK 3.7 + Omich-L Dropbox downloads
+
+dds4ksp conversion to DXT5
+
+search tags to all parts
+
+rcsfx on lunik
+
+integrated optional "Omich-L MPL" lab
+
+integrated optional paintjobs (orange AtlasV and USAF logos) as stock texture switches
+
+switchable textures of SM-65 are shared between parts instead of duplicating
+
+Textures of SM-65 are toned up to merge with widely used Porkjet White color
+
+SM-65 sustainer is gimballed as supposed to
+
+added batteries to tanks that have gyros
+
+waterfall configurations, shamelessly "inspired" by Restock-Waterfall configurations by Nertea
+
+nodes on booster skirt and sm-65 tanks are changed to allow third-party engines on bottom node, now booster skirt is attached to the tank on invisible duplicate bottom node
+
+tweakscale
+
+Created Осом Пчиц flag from forum's showcase image
+
+--------------------------------------------------------------
+
+tbd:
+
+do something with AtlasV textures looking this bad
+
+Textures Unlimited shine or B9 shine on SM-65
